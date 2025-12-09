@@ -1,0 +1,1 @@
+{"name":"Local: OneAndTwo","url":"/home/arywall/Documents/tle800/OneAndTwo.cpp","tests":[{"id":1765215800184,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/arywall/Documents/tle800/OneAndTwo.cpp","group":"local","local":true}
